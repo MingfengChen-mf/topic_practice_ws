@@ -40,7 +40,6 @@ ros2 run status_display sys_status_display
 ```
 
 ## 运行效果
-（截图：Qt 窗口一张 + ros2 topic echo 一张 + pub 包终端运行一张）
 
 ![Qt 显示窗口](docs/images/display_window.png)
 
